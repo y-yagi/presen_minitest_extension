@@ -1,0 +1,1 @@
+Minitestは、extension用の仕組みが標準で提供されており、extensionが簡単に作れる
